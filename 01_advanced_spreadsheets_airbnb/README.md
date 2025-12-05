@@ -3,6 +3,14 @@
 This project analyzes the Manhattan Airbnb market to determine which neighborhoods and property sizes are most attractive for vacation rentals, and which listings generate the highest revenue.
 This project was completed as part of the TripleTen Data Analysis Bootcamp.
 
+## 📊 Key Visualization
+
+This chart highlights the **Top 3 most profitable neighborhoods** in Manhattan Airbnb market based on estimated annual revenue.
+
+<p align="center">
+  <img src="top_3_neighborhoods.png" alt="Top 3 Neighborhoods by Annual Revenue" width="600">
+</p>
+
 ---
 
 ## 🎯 Project Objectives
