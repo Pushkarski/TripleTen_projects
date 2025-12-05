@@ -1,6 +1,7 @@
 # 🏙️ Airbnb Market Analysis - Advanced Spreadsheets Project
 
 This project analyzes the Manhattan Airbnb market to determine which neighborhoods and property sizes are most attractive for vacation rentals, and which listings generate the highest revenue.
+This project was completed as part of the TripleTen Data Analysis Bootcamp.
 
 ---
 
