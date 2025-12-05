@@ -28,8 +28,8 @@ For Midtown, **studios** perform best.
 - Standardized neighborhood names (`PROPER()`)  
 - Cleaned missing bedroom values (treated as studios = `0`)  
 - Added helper fields:
-  - `top_listing` — marks listings matching optimal criteria  
-  - `revenue_earned` — 30-day revenue per listing (via `SUMIF()`)  
+  - `top_listing` - marks listings matching optimal criteria  
+  - `revenue_earned` - 30-day revenue per listing (via `SUMIF()`)  
 
 ---
 
@@ -42,11 +42,12 @@ For Midtown, **studios** perform best.
 ---
 
 ## 📂 Project Structure
+```
 01_advanced_spreadsheets_airbnb/
 │
 ├── README.md
 └── Airbnb_Analysis.xlsx
-
+```
 ---
 
 ## 📝 Summary
