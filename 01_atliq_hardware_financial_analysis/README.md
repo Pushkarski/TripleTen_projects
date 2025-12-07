@@ -78,7 +78,8 @@ The following metrics were computed for analysis:
 01_final_project_atliq_hardware/  
 │── README.md  
 │── atliq_hardware_financial_analysis.ipynb  
-│── base_fin_clean.csv 
+│── base_fin_clean.csv   
+│── financial_performance.png
 
 ---
 
