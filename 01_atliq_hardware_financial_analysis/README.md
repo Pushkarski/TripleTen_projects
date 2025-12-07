@@ -1,5 +1,7 @@
 # AtliQ Hardware - Financial Analysis
 
+![Financial performance chart](financial_performance.png)
+
 This project analyzes **AtliQ Hardware’s** financial performance from **FY2018–FY2022**.  
 The goal was to assess profitability trends, unit economics, category performance, and regional contribution, and to summarize insights in an interactive Tableau dashboard.
 
