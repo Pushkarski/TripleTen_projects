@@ -5,5 +5,6 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | :-----------: | ----------- |----------- |
 | 01 | [AtliQ Hardware - Financial Analysis](01_atliq_hardware_financial_analysis/) | Project analyzing financial performance, profitability trends, unit economics, and regional contribution. Includes SQL, Python, and Tableau dashboard. |
 | 02 | [A/B Testing and Hypothesis Prioritization](02_ab_test_hypothesis_prioritization/) | A/B test analysis with ICE/RICE ranking, anomaly filtering, and statistical evaluation of group performance. |
+| 03 | [Yandex.Afisha — Business & Marketing Analytics](03_yandex_afisha_business_analytics/) | Analysis of user behavior, conversion patterns, LTV, CAC, ROI, and marketing efficiency to optimize ad spend. |
 | 10 | [Airbnb Market Analysis — Advanced Spreadsheets](10_airbnb_advanced_spreadsheets/) | Analyzed Manhattan Airbnb data to find top neighborhoods and property sizes for maximizing rental revenue. |
 
