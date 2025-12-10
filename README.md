@@ -10,5 +10,5 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | 05 | [Used Car Sales Dashboard](https://github.com/Pushkarski/05_used_car_sales_dashboard) | Interactive Streamlit dashboard with EDA, exploring how vehicle attributes affect price and listing duration. |
 | 06 | [Superstore Returns Analysis (Tableau Storytelling)](06_superstore_returns_analysis/) | Tableau project analyzing causes of product returns using category, geography, seasonality, and customer-level metrics. Includes an interactive dashboard and a 5-minute video presentation. |
 | 07 | [Instacart — Customer Behavior EDA](07_instacart_customer_behavior_eda/) | Introductory Python + Pandas project focused on data cleaning, exploratory analysis, shopping patterns, reorder behavior, and visualization. |
-| 08 | [Airbnb Market Analysis — Advanced Spreadsheets](10_airbnb_advanced_spreadsheets/) | Analyzed Manhattan Airbnb data to find top neighborhoods and property sizes for maximizing rental revenue. |
+| 08 | [Airbnb Market Analysis — Advanced Spreadsheets](08_airbnb_advanced_spreadsheets/) | Analyzed Manhattan Airbnb data to find top neighborhoods and property sizes for maximizing rental revenue. |
 
