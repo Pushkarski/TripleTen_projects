@@ -55,6 +55,7 @@ For Midtown, **studios** perform best.
 01_advanced_spreadsheets_airbnb/
 │
 ├── README.md
+├── top_3_neighborhoods.png
 └── Airbnb_Analysis.xlsx
 ```
 ---
